@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\PlinkoGame\PlinkoGame\bin\Debug\PlinkoGame.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\PlinkoGame\PlinkoGame\bin\Debug\PlinkoGame.exe
+c:\users\michael\documents\visual studio 2015\Projects\PlinkoGame\PlinkoGame\bin\Debug\PlinkoGame.pdb
+c:\users\michael\documents\visual studio 2015\Projects\PlinkoGame\PlinkoGame\obj\Debug\PlinkoGame.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\PlinkoGame\PlinkoGame\obj\Debug\PlinkoGame.exe
+c:\users\michael\documents\visual studio 2015\Projects\PlinkoGame\PlinkoGame\obj\Debug\PlinkoGame.pdb
