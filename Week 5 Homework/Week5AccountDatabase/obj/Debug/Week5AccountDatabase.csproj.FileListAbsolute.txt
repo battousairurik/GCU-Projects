@@ -8,3 +8,6 @@ c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week
 c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.csproj.GenerateResource.Cache
 c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.exe
 c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.pdb
+C:\Users\Michael\Documents\GCU-Projects\Week 5 Homework\Week5AccountDatabase\bin\Debug\Week5AccountDatabase.exe.config
+C:\Users\Michael\Documents\GCU-Projects\Week 5 Homework\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.exe
+C:\Users\Michael\Documents\GCU-Projects\Week 5 Homework\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.pdb

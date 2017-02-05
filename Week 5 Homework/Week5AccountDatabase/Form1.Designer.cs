@@ -35,8 +35,8 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.process_button = new System.Windows.Forms.Button();
             this.processing_amount = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.to_savings = new System.Windows.Forms.Button();
+            this.to_checking = new System.Windows.Forms.Button();
             this.help_button = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -110,25 +110,27 @@
             this.processing_amount.TabIndex = 6;
             this.processing_amount.Text = "label5";
             // 
-            // button2
+            // to_savings
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(423, 171);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(125, 40);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "To Savings";
-            this.button2.UseVisualStyleBackColor = true;
+            this.to_savings.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.to_savings.Location = new System.Drawing.Point(423, 171);
+            this.to_savings.Name = "to_savings";
+            this.to_savings.Size = new System.Drawing.Size(125, 40);
+            this.to_savings.TabIndex = 7;
+            this.to_savings.Text = "To Savings";
+            this.to_savings.UseVisualStyleBackColor = true;
+            this.to_savings.Click += new System.EventHandler(this.to_savings_click);
             // 
-            // button3
+            // to_checking
             // 
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(423, 217);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(125, 40);
-            this.button3.TabIndex = 8;
-            this.button3.Text = "To Checking";
-            this.button3.UseVisualStyleBackColor = true;
+            this.to_checking.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.to_checking.Location = new System.Drawing.Point(423, 217);
+            this.to_checking.Name = "to_checking";
+            this.to_checking.Size = new System.Drawing.Size(125, 40);
+            this.to_checking.TabIndex = 8;
+            this.to_checking.Text = "To Checking";
+            this.to_checking.UseVisualStyleBackColor = true;
+            this.to_checking.Click += new System.EventHandler(this.to_checking_click);
             // 
             // help_button
             // 
@@ -146,8 +148,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(584, 361);
             this.Controls.Add(this.help_button);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.to_checking);
+            this.Controls.Add(this.to_savings);
             this.Controls.Add(this.processing_amount);
             this.Controls.Add(this.process_button);
             this.Controls.Add(this.textBox1);
@@ -172,8 +174,8 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button process_button;
         private System.Windows.Forms.Label processing_amount;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button to_savings;
+        private System.Windows.Forms.Button to_checking;
         private System.Windows.Forms.Button help_button;
     }
 }
