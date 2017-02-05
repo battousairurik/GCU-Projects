@@ -1,0 +1,10 @@
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\bin\Debug\Week5AccountDatabase.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\bin\Debug\Accounts.accdb
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\bin\Debug\Week5AccountDatabase.exe
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\bin\Debug\Week5AccountDatabase.pdb
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.Form1.resources
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.exe
+c:\users\michael\documents\visual studio 2015\Projects\Week5AccountDatabase\Week5AccountDatabase\obj\Debug\Week5AccountDatabase.pdb
