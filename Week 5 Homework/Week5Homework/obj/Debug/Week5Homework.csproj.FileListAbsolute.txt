@@ -4,3 +4,6 @@ C:\Users\Michael\Documents\Visual Studio 2015\Projects\Week5Homework\Week5Homewo
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\Week5Homework\Week5Homework\bin\Debug\Week5Homework.pdb
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\Week5Homework\Week5Homework\obj\Debug\Week5Homework.exe
 C:\Users\Michael\Documents\Visual Studio 2015\Projects\Week5Homework\Week5Homework\obj\Debug\Week5Homework.pdb
+C:\Users\Michael\Documents\GCU-Projects\Week 5 Homework\Week5Homework\bin\Debug\Week5Homework.exe.config
+C:\Users\Michael\Documents\GCU-Projects\Week 5 Homework\Week5Homework\obj\Debug\Week5Homework.exe
+C:\Users\Michael\Documents\GCU-Projects\Week 5 Homework\Week5Homework\obj\Debug\Week5Homework.pdb
