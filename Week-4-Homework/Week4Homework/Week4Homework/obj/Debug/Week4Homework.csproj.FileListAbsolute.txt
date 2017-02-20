@@ -1,6 +1,0 @@
-c:\users\michael\documents\visual studio 2015\Projects\Week4Homework\Week4Homework\bin\Debug\Week4Homework.exe.config
-c:\users\michael\documents\visual studio 2015\Projects\Week4Homework\Week4Homework\bin\Debug\Week4Homework.exe
-c:\users\michael\documents\visual studio 2015\Projects\Week4Homework\Week4Homework\bin\Debug\Week4Homework.pdb
-c:\users\michael\documents\visual studio 2015\Projects\Week4Homework\Week4Homework\obj\Debug\Week4Homework.csprojResolveAssemblyReference.cache
-c:\users\michael\documents\visual studio 2015\Projects\Week4Homework\Week4Homework\obj\Debug\Week4Homework.exe
-c:\users\michael\documents\visual studio 2015\Projects\Week4Homework\Week4Homework\obj\Debug\Week4Homework.pdb

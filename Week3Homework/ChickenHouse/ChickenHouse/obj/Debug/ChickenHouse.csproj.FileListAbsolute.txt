@@ -1,6 +1,0 @@
-c:\users\michael\documents\visual studio 2015\Projects\ChickenHouse\ChickenHouse\bin\Debug\ChickenHouse.exe.config
-c:\users\michael\documents\visual studio 2015\Projects\ChickenHouse\ChickenHouse\obj\Debug\ChickenHouse.csprojResolveAssemblyReference.cache
-c:\users\michael\documents\visual studio 2015\Projects\ChickenHouse\ChickenHouse\bin\Debug\ChickenHouse.exe
-c:\users\michael\documents\visual studio 2015\Projects\ChickenHouse\ChickenHouse\bin\Debug\ChickenHouse.pdb
-c:\users\michael\documents\visual studio 2015\Projects\ChickenHouse\ChickenHouse\obj\Debug\ChickenHouse.exe
-c:\users\michael\documents\visual studio 2015\Projects\ChickenHouse\ChickenHouse\obj\Debug\ChickenHouse.pdb
