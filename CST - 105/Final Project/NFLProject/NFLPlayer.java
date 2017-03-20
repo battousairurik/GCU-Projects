@@ -1,8 +1,8 @@
 
 public class NFLPlayer 
 {
-	String playerName = "";
-	String playerPosition = "";
+	static String playerName = "";
+	static String playerPosition = "";
 	
 	static int gamesPlayed = 0;
 	static double totalYards = 0;
@@ -33,10 +33,22 @@ public class NFLPlayer
 		playerName = name;
 		playerPosition = position;
 	}
+	public static String getName (){
+		return playerName;
+	}
+	public static String getPosition(){
+		return playerPosition;
+	}
 	public void setGenerics(int games, double yards)
 	{
 		gamesPlayed = games;
 		totalYards = yards;
+	}
+	public static int getGames(){
+		return gamesPlayed;
+	}
+	public static double getYards(){
+		return totalYards;
 	}
 	public void setYards (double passing, double rushing, double recieving, double kicking)
 	{
@@ -45,12 +57,36 @@ public class NFLPlayer
 		recievingYards = recieving;
 		kickingYards = kicking;
 	}
+	public static double getPassing(){
+		return passingYards;
+	}
+	public static double getRushing(){
+		return rushingYards;
+	}
+	public static double getRecieving(){
+		return recievingYards;
+	}
+	public static double getKicking(){
+		return kickingYards;
+	}
 	public void setOffense1 (int thrown, int goals, int returns, int punt)
 	{
 		interceptionsThrown = thrown;
 		fieldGoals = goals;
 		kickReturns = returns;
 		punts = punt;
+	}
+	public static int getThrown(){
+		return interceptionsThrown;
+	}
+	public static int getGoals(){
+		return fieldGoals;
+	}
+	public static int getReturns(){
+		return kickReturns;
+	}
+	public static int getPunts(){
+		return punts;
 	}
 	public void setOffense2 (int sack, int td, int tackle, int fumble)
 	{
@@ -59,11 +95,32 @@ public class NFLPlayer
 		timesTackled = tackle;
 		fumbles = fumble;
 	}
+	public static int getSacks(){
+		return sacks;
+	}
+	public static int getTouchDowns(){
+		return touchDowns;
+	}
+	public static int getTimesTackled(){
+		return timesTackled;
+	}
+	public static int getFumbles(){
+		return fumbles;
+	}
 	public void setDefense (int tackle, int assists, int interceptions)
 	{
 		tackles = tackle;
 		tackleAssists = assists;
 		interceptionsCaught = interceptions;
+	}
+	public static int getTackles(){
+		return tackles;
+	}
+	public static int getAssists(){
+		return tackleAssists;
+	}
+	public static int getInterceptions(){
+		return interceptionsCaught;
 	}
 	public void printPlayer ()
 	{
