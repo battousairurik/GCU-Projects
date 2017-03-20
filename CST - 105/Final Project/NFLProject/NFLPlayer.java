@@ -4,27 +4,30 @@ public class NFLPlayer
 	String playerName = "";
 	String playerPosition = "";
 	
-	int gamesPlayed = 0;
-	double totalYards = 0;
+	static int gamesPlayed = 0;
+	static double totalYards = 0;
 	
-	double passingYards = 0;
-	double rushingYards = 0;
-	double recievingYards = 0;
-	double kickingYards = 0;
+	static double passingYards = 0;
+	static double rushingYards = 0;
+	static double recievingYards = 0;
+	static double kickingYards = 0;
 	
-	int interceptionsThrown = 0;
-	int fieldGoals = 0;
-	int kickReturns = 0;
-	int punts = 0;
-	int sacks = 0;
-	int touchDowns = 0;
-	int timesTackled = 0;
-	int fumbles = 0;
+	static int interceptionsThrown = 0;
+	static int fieldGoals = 0;
+	static int kickReturns = 0;
+	static int punts = 0;
+	static int sacks = 0;
+	static int touchDowns = 0;
+	static int timesTackled = 0;
+	static int fumbles = 0;
 	
-	int tackles = 0;
-	int tackleAssists = 0;
-	int interceptionsCaught = 0;
+	static int tackles = 0;
+	static int tackleAssists = 0;
+	static int interceptionsCaught = 0;
 	
+	public NFLPlayer (){
+		
+	}
 	public NFLPlayer (String name, String position)
 	{
 		playerName = name;

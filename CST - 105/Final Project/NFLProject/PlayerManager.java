@@ -110,14 +110,15 @@ public class PlayerManager
 			NFLPlayer player = new NFLPlayer(name, position);
 			availablePlayers[num2] = player.playerName;
 			pPosition[num2] = player.playerPosition;
-			System.out.println("Player: " + availablePlayers[num2] + " Position: " + pPosition[num2]);
+			//System.out.println("Player: " + availablePlayers[num2] + " Position: " + pPosition[num2]);
 			num1++;
 			num2++;
 		}
 	}
-	
+	/*
 	public static void main (String [] args)
 	{
 		CreatePlayers();
 	}
+	*/
 }
