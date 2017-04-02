@@ -1,5 +1,7 @@
 package abstractNFLPlayer;
 
+import java.util.Random;
+
 public class OffensivePlayer extends NFLPlayer{
 
 	private double totalYards;
@@ -80,5 +82,22 @@ public class OffensivePlayer extends NFLPlayer{
 	}
 	public int getFumbles(){
 		return fumbles;
+	}
+	@Override public void celebrate(){
+		Random r1 = new Random();
+		int choice = r1.nextInt(3) + 1;
+		if (choice == 1){
+			setCelebration(" throws the ball in the air!");
+			displayCelebrate();
+		}
+		else if (choice == 2){
+			setCelebration(" kicks the ball to the fans!");
+			displayCelebrate();
+		}
+		else if (choice == 3){
+			setCelebration();
+			displayCelebrate();
+		}
+			
 	}
 }

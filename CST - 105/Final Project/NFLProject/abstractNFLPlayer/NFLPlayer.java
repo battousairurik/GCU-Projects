@@ -1,6 +1,6 @@
 package abstractNFLPlayer;
 
-public abstract class NFLPlayer {
+public abstract class NFLPlayer implements Celebrator{
 
 	private String playerName;
 	private String playerPosition;
@@ -28,5 +28,19 @@ public abstract class NFLPlayer {
 	public int getYears(){
 		return yearsPlayed;
 	}
-	
+	private String celebration;
+	public void celebrate(){
+		setCelebration();
+		displayCelebrate();
+	}
+	public void setCelebration(){
+		celebration = " does a little dance!";
+	}
+	public void displayCelebrate(){
+		System.out.println(playerName + celebration);
+	}
+	public String setCelebration(String input){
+		celebration = input;
+		return celebration;
+	}
 }
