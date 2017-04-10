@@ -7,9 +7,8 @@ public abstract class NFLPlayer implements Celebrator{
 	private int gamesPlayed;
 	private int yearsPlayed;
 	
-	public NFLPlayer(){
-		
-	}
+	public NFLPlayer(){	}
+	
 	public void setGenerics(String name, String position, int games, int years){
 		playerName = name;
 		playerPosition = position;
